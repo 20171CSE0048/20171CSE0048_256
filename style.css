@@ -1,0 +1,22 @@
+
+
+body{
+	background-color:yellow;
+	background-image:url("/home/6CSE1/pexels-photo-414612.jpeg");
+ 	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	}
+	h1{
+	text-shadow:2px 2px white;
+	color:maroon;
+	margin-left:500px;}
+	h2{
+	color:red;
+	margin-right:20px;}
+	p{background-color:black;color:white;
+	p.normal{background-color:black;color:white;}
+	p.warning{background-color:red;color:white;
+	
+	}
+	
